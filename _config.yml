@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Yueguang Yang (杨岳广)"
+description              : "Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  name             : "Yueguang Yang"
+  avatar           : "images/yyg_pic.png"
+  bio              : "Wuhan University"
+  location         : "Wuhan, China" 
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=4v566vcAAAAJ"
+  email            : "ygyang@whu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -146,6 +146,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-livereload
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -153,6 +154,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-livereload
 
 
 # HTML Compression
