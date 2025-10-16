@@ -78,6 +78,7 @@
   align-items: center;
 }
 
+/* Author profile - yyg */
 .author__avatar {
   display: table-cell;
   vertical-align: top;
@@ -94,11 +95,11 @@
   img {
     max-width: 175px;
     min-width: 75px;
-    border-radius: 50%;
-
+    border-radius: 20%;
+    
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+      padding: 2px;
+      border: 2px solid $border-color;
     }
   }
 }

@@ -23,7 +23,6 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yueguang Yang\n(杨岳广)"
   avatar           : "images/yyg_pic.png"
-  # avatar_shape     : "circle" # circle square rounded diamond hex
   bio              : "Wuhan University"
   location         : "Wuhan, China" 
   employer         :
