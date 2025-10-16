@@ -26,7 +26,7 @@ My research interests include **deep learning**, **remote sensing**, **image pro
 
 # 🔥 News
 - *2025.09*: &nbsp;📖📖 One paper under review at IEEE TCSVT.
-- *2025.06*: &nbsp;🎉🎉 One Paper accepted to IJCAI 2025. 
+- *2025.04*: &nbsp;🎉🎉 One Paper accepted to IJCAI 2025. 
 - *2024.03*: &nbsp;🎉🎉 One Paper accepted to IEEE TGRS. 
 
 # 📝 Publications 
