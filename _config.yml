@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Yueguang Yang (杨岳广)"
-description              : "Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+description              : "Doctoral student."
+repository               : "ygyang12/ygyang12.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,8 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yueguang Yang"
+  name             : "Yueguang Yang\n(杨岳广)"
   avatar           : "images/yyg_pic.png"
+  # avatar_shape     : "circle" # circle square rounded diamond hex
   bio              : "Wuhan University"
   location         : "Wuhan, China" 
   employer         :

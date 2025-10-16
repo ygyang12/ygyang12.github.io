@@ -9,10 +9,7 @@
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">
-      <span class="author__name-en">Yueguang Yang</span><br>
-      <span class="author__name-cn">杨岳广</span>
-    </h3>
+    <h3 class="author__name">{{ author.name | newline_to_br }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
