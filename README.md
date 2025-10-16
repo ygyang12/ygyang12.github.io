@@ -56,6 +56,14 @@ Some examples:
         > A: Enter your google scholar homepage and click the paper name. Then you can see the paper ID from `citation_for_view=XXXX`, where `XXXX` is the required paper ID.
 1. Your page will be published at `https://USERNAME.github.io`.
 
+'''txt
+  _includes/head/custom.html // 修改标签页头像
+  _data/navigation.yml // 修改导航栏
+  _sass/_sidebar.scss  // 修改相框大小，姓名文字大小等排版
+  _config.yml // 配置文件，每次修改后都得重新启动服务
+  _pages/about.md  // 修改个人信息
+'''
+
 ## Debug Locally
 
 1. Clone your REPO to local using `git clone`.
