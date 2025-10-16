@@ -79,7 +79,7 @@ CCF-A 类会议 <span class="show_paper_citations" data="ZpxXejIAAAAJ:u-x6o8ySG0
 
 
 
-# 📖 Education
+# 📖 Educations
 - *2025.09 - Present*, **Doctoral student**, [Wuhan University](https://www.whu.edu.cn/), supervised by [Prof. Chen Wu](https://jszy.whu.edu.cn/wuchen/zh_CN/index.htm).
 - *2022.09 - 2025.06*, **M.S.**, [Xidian University](https://www.xidian.edu.cn/), supervised by [Assoc. Prof. Jiahui Qu](http://www.lianpp.com/xidian/smu_web/jhqu/index.html) and [Assoc. Prof. Wenqian Dong](https://faculty.xidian.edu.cn/DWQ1/zh_CN/index.htm). 
 - *2018.09 - 2022.06*, **B.E.**, [Hunan University of Science and Technology](https://www.hnust.edu.cn/). 
