@@ -38,7 +38,8 @@ My research interests include **deep learning**, **remote sensing**, **image pro
 
 **<u>Yueguang Yang</u>**, Jiahui Qu, Ling Huang, Wenqian Dong
 
-CCF-A 类会议 <span class="show_paper_citations" data="ZpxXejIAAAAJ:u-x6o8ySG0sC"></span>
+CCF-A 类会议 
+<!-- <span class="show_paper_citations" data="4v566vcAAAAJ:IjCSPb-OGe4C"></span> -->
 </div>
 </div>
 <!--------------- End ------------------------>
@@ -51,7 +52,9 @@ CCF-A 类会议 <span class="show_paper_citations" data="ZpxXejIAAAAJ:u-x6o8ySG0
 
 **<u>Yueguang Yang</u>**, Jiahui Qu, Wenqian Dong, Tongzhen Zhang, Song Xiao, Yunsong Li
 
-中科院一区 Top, IF=8.6 <span class="show_paper_citations" data="ZpxXejIAAAAJ:u-x6o8ySG0sC"></span>
+中科院一区 Top, IF=8.6 
+<!-- <span class="show_paper_citations" data="4v566vcAAAAJ:2osOgNQ5qMEC"></span>  -->
+<!-- 在个人主页点击目标论文标题，打开后查看地址栏 URL 会包含 citation_for_view=AUTHOR_ID:CLUSTER_ID -->
 </div>
 </div>
 <!--------------- End ------------------------>
