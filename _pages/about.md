@@ -60,7 +60,7 @@ CCF-A 类会议
 <!--------------- End ------------------------>
 
 <!--------------- Begin -------------------------------------------------->
-- **Fusion from a distributional perspective: a unified symbiotic diffusion framework for any multisource remote sensing data classification**, Teng Yang, Song Xiao, Wenqian Dong, Jiahui Qu, **Yueguang Yang**, IJCAI 2024.[Paper](https://dl.acm.org/doi/abs/10.24963/ijcai.2024/174)
+- **Fusion from a distributional perspective: a unified symbiotic diffusion framework for any multisource remote sensing data classification**, Teng Yang, Song Xiao, Wenqian Dong, Jiahui Qu, **Yueguang Yang**, IJCAI 2024.[[Paper]](https://dl.acm.org/doi/abs/10.24963/ijcai.2024/174)
 <!--------------- End ---------------------- -->
 
 
