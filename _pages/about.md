@@ -25,9 +25,9 @@ My research interests include **deep learning**, **remote sensing**, **image pro
 <!-- (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=4v566vcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
-- *2025.09*: &nbsp;📖📖 One paper under review at IEEE TCSVT.
-- *2025.04*: &nbsp;🎉🎉 One Paper accepted to IJCAI 2025. 
-- *2024.03*: &nbsp;🎉🎉 One Paper accepted to IEEE TGRS. 
+- *2025.09*: &nbsp;📖📖 One paper was under review at IEEE TCSVT.
+- *2025.04*: &nbsp;🎉🎉 One paper was accepted by IJCAI 2025. 
+- *2024.03*: &nbsp;🎉🎉 One paper was accepted by IEEE TGRS. 
 
 # 📝 Publications 
 <!--------------- Begin -------------------------------------------------->
