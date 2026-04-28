@@ -42,6 +42,10 @@
   <meta property="og:url" content="{{ page.url | replace: 'index.html', '' | prepend: site.url }}">
 {% endif %}
 
+{% if seo_description %}
+  <meta name="description" content="{{ seo_description }}">
+{% endif %}
+
 {% if page.excerpt %}
   <meta property="og:description" content="{{ seo_description }}">
 {% endif %}

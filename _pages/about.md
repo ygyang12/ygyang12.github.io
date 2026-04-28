@@ -24,14 +24,14 @@ My research interests include **deep learning**, **remote sensing**, **image pro
 
 <!-- (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=4v566vcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-# 🔥 News
+## 🔥 News
 - *2026.04*: &nbsp;🎉🎉 One paper was accepted by IEEE TCSVT. 
 - *2025.11*: Attended the 13th International Conference on Image and Graphics (ICIG 2025) in Xuzhou, China for academic learning. Special thanks to Prof. Chen Wu for his support.
 - *2025.09*: &nbsp;📖📖 One paper was under review at IEEE TCSVT.
 - *2025.04*: &nbsp;🎉🎉 One paper was accepted by IJCAI 2025. 
 - *2024.03*: &nbsp;🎉🎉 One paper was accepted by IEEE TGRS. 
 
-# 📝 Publications 
+## 📝 Publications 
 <!--------------- Begin -------------------------------------------------->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/DPMamba.png' alt="sym" width="300"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -84,13 +84,13 @@ CCF-A 类会议
 
 
 
-# 📖 Educations
+## 📖 Educations
 - *2025.09 - Present*, **Doctoral student**, [Wuhan University](https://www.whu.edu.cn/), supervised by [Prof. Chen Wu](https://jszy.whu.edu.cn/wuchen/zh_CN/index.htm).
 - *2022.09 - 2025.06*, **M.S.**, [Xidian University](https://www.xidian.edu.cn/), supervised by [Assoc. Prof. Jiahui Qu](http://www.lianpp.com/xidian/smu_web/jhqu/index.html) and [Assoc. Prof. Wenqian Dong](https://faculty.xidian.edu.cn/DWQ1/zh_CN/index.htm). 
 - *2018.09 - 2022.06*, **B.E.**, [Hunan University of Science and Technology](https://www.hnust.edu.cn/). 
 
 <!-- 备选Emoji：🎖🏅💎🏆 -->
-# 🏅 Honors and Awards
+## 🏅 Honors and Awards
 - *2025*,&ensp;**Outstanding Master’s Degree Recipient** \| **优秀硕士学位获得者**.
 - *2024*,&ensp;**National Scholarship** \| **国家奖学金**.
 - *2024*,&ensp;**Gold Award (Shaanxi Province), China International College Students’ Innovation and Entrepreneurship Competition** \| **中国国际大学生创新大赛陕西省金奖**.
@@ -103,5 +103,5 @@ CCF-A 类会议
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
+## 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
