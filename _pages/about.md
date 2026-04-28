@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Yueguang Yang (杨岳广)"
+excerpt: "The homepage of Yueguang Yang (杨岳广)." # Excerpt（摘要）指的是一个页面的简短总结。
 author_profile: true
 redirect_from: 
   - /about/
@@ -99,7 +99,7 @@ CCF-A 类会议
 - *2022*,&ensp;**Outstanding Undergraduate Graduate** \| **优秀本科毕业生**.
 - *2019, 2020, 2021*,&ensp;**First-Class Academic Scholarship** \| **一等学业奖学金**.
 
-<!-- # 💬 Invited Talks
+<!-- ## 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
