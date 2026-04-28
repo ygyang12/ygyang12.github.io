@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Yueguang Yang (杨岳广)"
-excerpt: "The homepage of Yueguang Yang (杨岳广)." # Excerpt（摘要）指的是一个页面的简短总结。
+title: "Yueguang Yang (杨岳广)" # 修改不影响页面内容。
+excerpt: "The homepage of Yueguang Yang (杨岳广)." # Excerpt（摘要）指的是一个页面的简短总结。不影响页面内容。
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<h1 style="display:none;">Yueguang Yang (杨岳广)</h1>
+
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}

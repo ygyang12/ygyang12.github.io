@@ -69,6 +69,7 @@ Some examples:
 ```shell
 bundle exec jekyll serve
 ```
+｜ 每次修改后都需要重新运行，不是实时的
 
 ## Debug Locally
 
