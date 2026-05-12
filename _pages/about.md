@@ -35,7 +35,7 @@ My research interests include **deep learning**, **remote sensing**, **image pro
 
 ## 📝 Publications 
 <!--------------- Begin -------------------------------------------------->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/DPMamba.png' alt="sym" width="300"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/DPMamba.png' alt="sym" width="300"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ***DPMamba: Distillation Prompt Mamba for Multimodal Remote Sensing Image Classification with Missing Modalities*** [[Paper]](https://www.ijcai.org/proceedings/2025/248), [[Code]](https://github.com/Jiahuiqu/DPMamba), [[BibTeX]]()
@@ -43,28 +43,36 @@ My research interests include **deep learning**, **remote sensing**, **image pro
 **<u>Yueguang Yang</u>**, Jiahui Qu, Ling Huang, Wenqian Dong
 
 CCF-A 类会议 
-<!-- <span class="show_paper_citations" data="4v566vcAAAAJ:IjCSPb-OGe4C"></span> -->
 </div>
-</div>
+</div> -->
 <!--------------- End ------------------------>
 
-<!--------------- Begin -------------------------------------------------->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TGRS</div><img src='images/TMCFN.png' alt="sym" width="300"></div></div>
-<div class='paper-box-text' markdown="1">
-
-***TMCFN: Text-Supervised Multidimensional Contrastive Fusion Network for Hyperspectral and LiDAR Classification*** [[Paper]](https://ieeexplore.ieee.org/document/10462155), [[Code]](https://github.com/Jiahuiqu/TMCFN-for-Hyperspectral-and-LiDAR-classification), [[BibTeX]]()
-
-**<u>Yueguang Yang</u>**, Jiahui Qu, Wenqian Dong, Tongzhen Zhang, Song Xiao, Yunsong Li
-
-中科院一区 Top, IF=8.6 
-<!-- <span class="show_paper_citations" data="4v566vcAAAAJ:2osOgNQ5qMEC"></span>  -->
-<!-- 在个人主页点击目标论文标题，打开后查看地址栏 URL 会包含 citation_for_view=AUTHOR_ID:CLUSTER_ID -->
-</div>
-</div>
-<!--------------- End ------------------------>
 
 <!--------------- Begin -------------------------------------------------->
-- **Fusion from a distributional perspective: a unified symbiotic diffusion framework for any multisource remote sensing data classification**, Teng Yang, Song Xiao, Wenqian Dong, Jiahui Qu, **Yueguang Yang**, IJCAI 2024.[[Paper]](https://dl.acm.org/doi/abs/10.24963/ijcai.2024/174)
+* **TMA-Fed: Text-Driven Modality-Aware Federated Learning for Multi-Satellite Remote Sensing**. 
+   
+  **<u>Yueguang Yang</u>**, Jiahui Qu, Yunsong Li, Wenqian Dong.  
+   
+  *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, 2026. [[Paper]](https://ieeexplore.ieee.org/document/11501970)
+
+* **DPMamba: Distillation Prompt Mamba for Multimodal Remote Sensing Image Classification with Missing Modalities**. 
+   
+  **<u>Yueguang Yang</u>**, Jiahui Qu, Ling Huang, Wenqian Dong.  
+   
+  *International Joint Conference on Artificial Intelligence (IJCAI)*, 2025. [[Paper]](https://www.ijcai.org/proceedings/2025/248)
+
+* **TMCFN: Text-Supervised Multidimensional Contrastive Fusion Network for Hyperspectral and LiDAR Classification**. 
+   
+  **<u>Yueguang Yang</u>**, Jiahui Qu, Wenqian Dong, Tongzhen Zhang, Song Xiao, Yunsong Li.  
+   
+  *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2024. [[Paper]](https://ieeexplore.ieee.org/document/10462155)
+
+* **Fusion from a Distributional Perspective: A Unified Symbiotic Diffusion Framework for Any Multisource Remote Sensing Data Classification**. 
+   
+  Teng Yang, Song Xiao, Wenqian Dong, Jiahui Qu, **<u>Yueguang Yang</u>**.  
+
+  *International Joint Conference on Artificial Intelligence (IJCAI)*, 2024. [[Paper]](https://dl.acm.org/doi/abs/10.24963/ijcai.2024/174)
+
 <!--------------- End ---------------------- -->
 
 
