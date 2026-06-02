@@ -27,6 +27,7 @@ My research interests include **deep learning**, **remote sensing**, **image pro
 <!-- (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=4v566vcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 ## 🔥 News
+- *2026.05*: &nbsp;📍 Attended CCIG 2026 in Guangzhou, China. Special thanks to Prof. Chen Wu for his support. 
 - *2026.05*: &nbsp;📍 Attended AIRS 2026 in Changsha, China. Special thanks to Prof. Chen Wu for his support. 
 - *2026.05*: &nbsp;📍 Attended VALSE 2026 in Wuhan, China.
 - *2026.04*: &nbsp;🎉 One paper was accepted by IEEE TCSVT. 
@@ -100,19 +101,15 @@ CCF-A 类会议
 
 
 ## 📖 Educations
-- *2025.09 - Present*, **Doctoral student**, [Wuhan University](https://www.whu.edu.cn/), supervised by [Prof. Chen Wu](https://jszy.whu.edu.cn/wuchen/zh_CN/index.htm).
-- *2022.09 - 2025.06*, **M.S.**, [Xidian University](https://www.xidian.edu.cn/), supervised by [Assoc. Prof. Jiahui Qu](http://www.lianpp.com/xidian/smu_web/jhqu/index.html) and [Assoc. Prof. Wenqian Dong](https://faculty.xidian.edu.cn/DWQ1/zh_CN/index.htm). 
-- *2018.09 - 2022.06*, **B.E.**, [Hunan University of Science and Technology](https://www.hnust.edu.cn/). 
+- *2025.09 - Present*, **Doctoral student**, Wuhan University, supervised by Prof. Chen Wu.
+- *2022.09 - 2025.06*, **M.S.**, Xidian University, supervised by Assoc. Prof. Jiahui Qu and Assoc. Prof. Wenqian Dong. 
+- *2018.09 - 2022.06*, **B.E.**, Hunan University of Science and Technology. 
 
 <!-- 备选Emoji：🎖🏅💎🏆 -->
 ## 🏅 Honors and Awards
 - *2025*,&ensp;**Outstanding Master’s Degree Recipient** \| **优秀硕士学位获得者**.
 - *2024*,&ensp;**National Scholarship** \| **国家奖学金**.
-- *2024*,&ensp;**Gold Award (Shaanxi Province), China International College Students’ Innovation and Entrepreneurship Competition** \| **中国国际大学生创新大赛陕西省金奖**.
-- *2023*,&ensp;**Outstanding Graduate Student** \| **优秀研究生**.
-- *2023*,&ensp;**First-Class Academic Scholarship** \| **一等学业奖学金**.
 - *2022*,&ensp;**Outstanding Undergraduate Graduate** \| **优秀本科毕业生**.
-- *2019, 2020, 2021*,&ensp;**First-Class Academic Scholarship** \| **一等学业奖学金**.
 
 <!-- ## 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
