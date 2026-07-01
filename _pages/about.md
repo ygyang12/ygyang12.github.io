@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a doctoral student (2025 - now) at State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing ([LIESMARS](https://liesmars.whu.edu.cn/)), Wuhan University, supervised by [Prof. Chen Wu](https://jszy.whu.edu.cn/wuchen/zh_CN/index.htm). I received the M.S. degree in 2025 from the Image Coding and Processing Center, State Key Laboratory of Integrated Services Networks, Xidian University, Xi’an, China, and the B.S. degree in 2022 from Hunan University of Science and Technology, Xiangtan, China.
+I am a PhD student (2025 - now) at State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing ([LIESMARS](https://liesmars.whu.edu.cn/)), Wuhan University, supervised by [Prof. Chen Wu](https://jszy.whu.edu.cn/wuchen/zh_CN/index.htm). I received the M.S. degree in 2025 from the Image Coding and Processing Center, State Key Laboratory of Integrated Services Networks, Xidian University, Xi’an, China, and the B.S. degree in 2022 from Hunan University of Science and Technology, Xiangtan, China.
 
 My research interests include **deep learning**, **remote sensing**, **image processing**, and **remote sensing applications**. 
 
@@ -97,7 +97,7 @@ CCF-A 类会议
 
 
 ## 📖 Educations
-- *2025.09 - Present*, **Doctoral student**, Wuhan University, supervised by Prof. Chen Wu.
+- *2025.09 - Present*, **PhD student**, Wuhan University, supervised by Prof. Chen Wu.
 - *2022.09 - 2025.06*, **M.S.**, Xidian University, supervised by Assoc. Prof. Jiahui Qu and Assoc. Prof. Wenqian Dong. 
 - *2018.09 - 2022.06*, **B.E.**, Hunan University of Science and Technology. 
 
