@@ -67,6 +67,12 @@ CCF-A 类会议
   *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2024. [[Paper]](https://ieeexplore.ieee.org/document/10462155)
 
 ---
+* **Language-Aware Modal-Integrated Representation Learning for Cross-Scene Remote Sensing Image Classification With Uncertain Missing Modalities**. 
+   
+  Ling Huang, Jiahui Qu, Wenqian Dong, **<u>Yueguang Yang</u>**, Yunsong Li.  
+
+  *IEEE Transactions on Multimedia*, 2026.[Paper]
+
 * **Fusion from a Distributional Perspective: A Unified Symbiotic Diffusion Framework for Any Multisource Remote Sensing Data Classification**. 
    
   Teng Yang, Song Xiao, Wenqian Dong, Jiahui Qu, **<u>Yueguang Yang</u>**.  
