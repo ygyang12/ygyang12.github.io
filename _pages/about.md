@@ -102,7 +102,7 @@ CCF-A 类会议
 
 ## 📖 Educations
 - *2025.09 - Present*, **PhD student**, Wuhan University, supervised by Prof. Chen Wu.
-- *2022.09 - 2025.06*, **M.S.**, Xidian University, supervised by Assoc. Prof. Jiahui Qu and Assoc. Prof. Wenqian Dong. 
+- *2022.09 - 2025.06*, **M.S.**, Xidian University. 
 - *2018.09 - 2022.06*, **B.E.**, Hunan University of Science and Technology. 
 
 <!-- 备选Emoji：🎖🏅💎🏆 -->
