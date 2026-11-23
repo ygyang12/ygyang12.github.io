@@ -71,7 +71,7 @@ CCF-A 类会议
    
   Ling Huang, Jiahui Qu, Wenqian Dong, **<u>Yueguang Yang</u>**, Yunsong Li.  
 
-  *IEEE Transactions on Multimedia*, 2026.[Paper]
+  *IEEE Transactions on Multimedia*, 2026.[[Paper]](https://ieeexplore.ieee.org/abstract/document/11794946)
 
 * **Fusion from a Distributional Perspective: A Unified Symbiotic Diffusion Framework for Any Multisource Remote Sensing Data Classification**. 
    
